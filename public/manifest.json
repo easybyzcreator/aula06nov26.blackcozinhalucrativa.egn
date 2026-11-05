@@ -1,0 +1,17 @@
+{
+  "name": "Aula 06 nov 26 - Black Lucrativa EGN",
+  "short_name": "Aula 06 nov 26 - Black Lucrativa EGN",
+  "description": "Apresentação de slides da Escola de Gastronomia & Negócios e Easy Byz Creator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2B2E22",
+  "theme_color": "#424733",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/easybyzcreator/imagens/c80cce481cdb90b6a8f84b4c9b7013dbb925f317/patiebc.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

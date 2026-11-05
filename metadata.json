@@ -1,0 +1,8 @@
+{
+  "name": "aula06nov26-egn-ebc",
+  "description": "Apresentação de slides interativa e profissional para a aula da Escola de Gastronomia e Negócios com a Chef Gabi e Easy Byz Creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
